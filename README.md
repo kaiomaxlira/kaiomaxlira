@@ -11,7 +11,7 @@
 
 ### Social
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kaio-max-16b33a187/)
-[![Instagram](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.instagram.com/kaiomaxl.p/?hl=pt-br)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kaiomaxl.p/?hl=pt-br)
 
  ### Main skills:
 ![HTML](https://img.shields.io/badge/-html-0D1117?style=for-the-badge&logo=HTML5&labelColor=0D1117)&nbsp;

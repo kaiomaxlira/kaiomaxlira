@@ -1,4 +1,4 @@
-<h1 align = "justify"> Hi there 👋 I'm Kaio Max!</h1> 
+# Hi, I'm Kaio Max! 
 
 
 ### Social
